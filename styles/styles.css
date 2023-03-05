@@ -1,0 +1,101 @@
+/*generales*/
+
+* {
+    color: white;
+    margin: 4px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+
+body {
+    background-image: url(../images/fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+}
+
+.ilogo {
+    background-color: black;
+    display: inline-block
+
+}
+
+.nlogo {
+    font-size: 1000%;
+    font-family: 'Babylonica', "cursive";
+    font-family: 'Cedarville Cursive', "cursive";
+    font-family: 'Sassy Frass', "cursive";
+    font-style: italic;
+    display: inline;
+    position: absolute;
+    top: 45px;
+    left: 250px;
+
+}
+
+
+hr {
+    color: black;
+}
+
+/*index*/
+.n1p1 div {
+
+    display: inline;
+    margin: 10px;
+    }
+
+.th1p1 {
+    color: yellow;
+    font-weight: bold;
+
+}
+
+.nd1, .nd2, .nd3, .nd4, .nd5{
+    background-color: gray;
+}
+
+
+/*producciones*/
+
+.s2prod {
+    background-color: gray;
+    width: 600px;
+    height: 500px;
+    overflow: auto;
+}
+
+.t2prod{
+    color: yellow;
+    background-color: black;
+}
+/*formularios*/
+.sf input {
+    color: black;
+}
+
+select {
+    color: black;
+}
+
+.opt1 {
+    color: black;
+}
+
+.opt2 {
+    color: black;
+}
+
+.txta {
+    color: black;
+}
+
+.fi input {
+    color: black;
+}
